@@ -1,2 +1,2 @@
 # co2emissions
-co2emissions project for MAATH 2315
+co2emissions project for MATH 2315
