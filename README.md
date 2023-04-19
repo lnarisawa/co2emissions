@@ -7,6 +7,6 @@ The data is formatted in a CSV file and is separated by country and alphabetized
 # Data Processing
 The data was cleaned by the removal of any non-countries, which may include aggregates of countries by region or data for the entire world, which would result in incorrect averaging. The data was also intentionally analyzed over the time period listed above to avoid missing data points from earlier time periods.
 # Authors
-Lucas Narisawa
+Lucas N
 # License
-Any of this code is open use, aand I provide full permission to utilize it, except if it is also for MATH 2315 to cheat.
+Any of this code is open use, and I provide full permission to utilize it, except if it is also for MATH 2315 to cheat.
